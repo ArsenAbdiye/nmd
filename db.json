@@ -8,7 +8,7 @@
         "faculty": "Information technology for business",
         "rating": 1,
         "genre": "man",
-        "img":"./imgs/person.png"
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB5ZGRFT_aF6jsRsfWLxvBpsT3GCAQz92ncg&usqp=CAU"
     },
     {
         "id": 2,
@@ -18,7 +18,7 @@
         "faculty": "Information technology for business",
         "rating": 2,
         "genre": "man",
-        "img":"./imgs/person.png"
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaZo9U7ydPtRvB5rwbvqa5ut0C1DRL0TLATg&usqp=CAU"
         
     },
     {
@@ -29,7 +29,7 @@
         "faculty": "Information technology for business",
         "rating": 3,
         "genre": "man",
-        "img":"./imgs/person.png"
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVmousvky7T7daQT_HsJFG6CxY5jt0ljNIwg&usqp=CAU"
     },
     {
         "id": 4,
@@ -39,7 +39,7 @@
         "faculty": "Information technology for business",
         "rating": 4,
         "genre": "man",
-        "img":"./imgs/person.png"
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7YeEnh3Xdpq64TROsU93sSXRBqywsUd5o2Q&usqp=CAU"
     },
     {
         "id": 5,
@@ -49,7 +49,7 @@
         "faculty": "Information technology for business",
         "rating": 5,
         "genre": "man",
-        "img":"./imgs/person.png"
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTowNSToflxhQyFMWVKbzQeFOvtrELj2zv1WQ&usqp=CAU"
     },
     {
         "id": 6,
@@ -59,7 +59,7 @@
         "faculty": "Information technology for business",
         "rating": 6,
         "genre": "man",
-        "img":"./imgs/person.png"
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcJo9eJKuIDJsDrdX09khk9u7jfKxMDawcRw&usqp=CAU"
     },
     {
         "id": 7,
@@ -69,7 +69,7 @@
         "faculty": "Information technology for business",
         "rating": 7,
         "genre": "man",
-        "img":"./imgs/person.png"
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCiZbvsi9lzNswSAxeoXZCCfEqOt6JF3CNhSYhPcMAFY7Yg8ElTbvYAmRxqOl05apNeGw&usqp=CAU"
     }
 ]
 }
