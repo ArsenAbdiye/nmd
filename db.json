@@ -1,0 +1,75 @@
+{
+    "Students": [
+    {
+        "id": 1,
+        "name": "person_1",
+        "year": "17",
+        "line": "IT Developer data",
+        "faculty": "Information technology for business",
+        "rating": 1,
+        "genre": "man",
+        "img":"./imgs/person.png"
+    },
+    {
+        "id": 2,
+        "name": "person_2",
+        "year": "17",
+        "line": "IT Developer data",
+        "faculty": "Information technology for business",
+        "rating": 2,
+        "genre": "man",
+        "img":"./imgs/person.png"
+        
+    },
+    {
+        "id": 3,
+        "name": "person_3",
+        "year": "17",
+        "line": "IT Developer data",
+        "faculty": "Information technology for business",
+        "rating": 3,
+        "genre": "man",
+        "img":"./imgs/person.png"
+    },
+    {
+        "id": 4,
+        "name": "person_4",
+        "year": "17",
+        "line": "IT Developer data",
+        "faculty": "Information technology for business",
+        "rating": 4,
+        "genre": "man",
+        "img":"./imgs/person.png"
+    },
+    {
+        "id": 5,
+        "name": "person_5",
+        "year": "17",
+        "line": "IT Developer data",
+        "faculty": "Information technology for business",
+        "rating": 5,
+        "genre": "man",
+        "img":"./imgs/person.png"
+    },
+    {
+        "id": 6,
+        "name": "person_6",
+        "year": "17",
+        "line": "IT Developer data",
+        "faculty": "Information technology for business",
+        "rating": 6,
+        "genre": "man",
+        "img":"./imgs/person.png"
+    },
+    {
+        "id": 7,
+        "name": "person_7",
+        "year": "17",
+        "line": "IT Developer data",
+        "faculty": "Information technology for business",
+        "rating": 7,
+        "genre": "man",
+        "img":"./imgs/person.png"
+    }
+]
+}
