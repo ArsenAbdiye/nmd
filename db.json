@@ -1,75 +1,79 @@
 {
-    "Students": [
+  "Students": [
     {
-        "id": 1,
-        "name": "person_1",
-        "year": "17",
-        "line": "IT Developer data",
-        "faculty": "Information technology for business",
-        "rating": 1,
-        "genre": "man",
-        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB5ZGRFT_aF6jsRsfWLxvBpsT3GCAQz92ncg&usqp=CAU"
+      "id": "1",
+      "name": "person_1",
+      "year": "17",
+      "line": "IT Developer data",
+      "faculty": "Information technology for business",
+      "rating": 1,
+      "genre": "man",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB5ZGRFT_aF6jsRsfWLxvBpsT3GCAQz92ncg&usqp=CAU"
     },
     {
-        "id": 2,
-        "name": "person_2",
-        "year": "17",
-        "line": "IT Developer data",
-        "faculty": "Information technology for business",
-        "rating": 2,
-        "genre": "man",
-        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaZo9U7ydPtRvB5rwbvqa5ut0C1DRL0TLATg&usqp=CAU"
-        
+      "id": "2",
+      "name": "person_2",
+      "year": "17",
+      "line": "IT Developer data",
+      "faculty": "Information technology for business",
+      "rating": 2,
+      "genre": "man",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaZo9U7ydPtRvB5rwbvqa5ut0C1DRL0TLATg&usqp=CAU"
     },
     {
-        "id": 3,
-        "name": "person_3",
-        "year": "17",
-        "line": "IT Developer data",
-        "faculty": "Information technology for business",
-        "rating": 3,
-        "genre": "man",
-        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVmousvky7T7daQT_HsJFG6CxY5jt0ljNIwg&usqp=CAU"
+      "id": "3",
+      "name": "person_3",
+      "year": "17",
+      "line": "IT Developer data",
+      "faculty": "Information technology for business",
+      "rating": 3,
+      "genre": "man",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVmousvky7T7daQT_HsJFG6CxY5jt0ljNIwg&usqp=CAU"
     },
     {
-        "id": 4,
-        "name": "person_4",
-        "year": "17",
-        "line": "IT Developer data",
-        "faculty": "Information technology for business",
-        "rating": 4,
-        "genre": "man",
-        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7YeEnh3Xdpq64TROsU93sSXRBqywsUd5o2Q&usqp=CAU"
+      "id": "4",
+      "name": "person_4",
+      "year": "17",
+      "line": "IT Developer data",
+      "faculty": "Information technology for business",
+      "rating": 4,
+      "genre": "man",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7YeEnh3Xdpq64TROsU93sSXRBqywsUd5o2Q&usqp=CAU"
     },
     {
-        "id": 5,
-        "name": "person_5",
-        "year": "17",
-        "line": "IT Developer data",
-        "faculty": "Information technology for business",
-        "rating": 5,
-        "genre": "man",
-        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTowNSToflxhQyFMWVKbzQeFOvtrELj2zv1WQ&usqp=CAU"
+      "id": "5",
+      "name": "person_5",
+      "year": "17",
+      "line": "IT Developer data",
+      "faculty": "Information technology for business",
+      "rating": 5,
+      "genre": "man",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTowNSToflxhQyFMWVKbzQeFOvtrELj2zv1WQ&usqp=CAU"
     },
     {
-        "id": 6,
-        "name": "person_6",
-        "year": "17",
-        "line": "IT Developer data",
-        "faculty": "Information technology for business",
-        "rating": 6,
-        "genre": "man",
-        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcJo9eJKuIDJsDrdX09khk9u7jfKxMDawcRw&usqp=CAU"
+      "id": "6",
+      "name": "person_6",
+      "year": "17",
+      "line": "IT Developer data",
+      "faculty": "Information technology for business",
+      "rating": 6,
+      "genre": "man",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcJo9eJKuIDJsDrdX09khk9u7jfKxMDawcRw&usqp=CAU"
     },
     {
-        "id": 7,
-        "name": "person_7",
-        "year": "17",
-        "line": "IT Developer data",
-        "faculty": "Information technology for business",
-        "rating": 7,
-        "genre": "man",
-        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCiZbvsi9lzNswSAxeoXZCCfEqOt6JF3CNhSYhPcMAFY7Yg8ElTbvYAmRxqOl05apNeGw&usqp=CAU"
+      "id": "7",
+      "name": "person_7",
+      "year": "17",
+      "line": "IT Developer data",
+      "faculty": "Information technology for business",
+      "rating": 7,
+      "genre": "man",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCiZbvsi9lzNswSAxeoXZCCfEqOt6JF3CNhSYhPcMAFY7Yg8ElTbvYAmRxqOl05apNeGw&usqp=CAU"
+    },
+    {
+      "id": "579b",
+      "name": "arsen",
+      "lastname": "abdiyev"
     }
-]
+  ]
 }

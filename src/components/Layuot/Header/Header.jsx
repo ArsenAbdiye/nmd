@@ -38,6 +38,11 @@ const Header = () => {
                             </NavLink>
                         </li>
                         <li className={"header__menu-item"}>
+                            <NavLink to={"/CRUD"}>
+                            CRUD
+                            </NavLink>
+                        </li>
+                        <li className={"header__menu-item"}>
                             <NavLink to={"/"}>
                             <FaInstagram />
                             </NavLink>
@@ -52,6 +57,7 @@ const Header = () => {
                             <FaTelegram />
                             </NavLink>
                         </li>
+                        
                     </ul>
                 </div>
             </div>
