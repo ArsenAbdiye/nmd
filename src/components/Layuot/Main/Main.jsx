@@ -1,4 +1,5 @@
 import React from 'react';
+import Swiper from '../Main/Swiper'
 const Main = () => {
     return (
         <div className='main'>
@@ -19,33 +20,34 @@ const Main = () => {
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur incidunt eaque tempore adipisci deserunt libero quibusdam architecto. Aspernatur cum asperiores reprehenderit! Ullam perferendis minus facere accusantium ad deserunt rerum ut.
                 </p>
             </section>
+            <Swiper/>
             <section className='cards'>
                 <h1>Направления подготовки COLLEGE</h1>
                 <p>Длительность обучения - 2 годы 10 месяцев</p>
                 <div className="cardss">
-                    <div className='card'>
+                    <div className='card card1'>
                     <div className='text'><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat porro accusamus in natus blanditiis sequi minima numquam cumque iure quis, quidem laudantium ipsum et, rem nobis pariatur molestiae eius dolorum.</p></div>
-                        <p>программирование</p>
+                        <p className='pp'>программирование</p>
                     </div>
-                    <div className='card'>
+                    <div className='card card2'>
                     <div className='text'><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat porro accusamus in natus blanditiis sequi minima numquam cumque iure quis, quidem laudantium ipsum et, rem nobis pariatur molestiae eius dolorum.</p></div>
-                        <p>программирование</p>
+                        <p className='pp'>Переводчик </p>
                     </div>
-                    <div className='card'>
+                    <div className='card card3'>
                     <div className='text'><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat porro accusamus in natus blanditiis sequi minima numquam cumque iure quis, quidem laudantium ipsum et, rem nobis pariatur molestiae eius dolorum.</p></div>
-                        <p>программирование</p>
+                        <p className='pp'>Цифровой маркетинг</p>
                     </div>
-                    <div className='card'>
+                    <div className='card card4'>
                     <div className='text'><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat porro accusamus in natus blanditiis sequi minima numquam cumque iure quis, quidem laudantium ipsum et, rem nobis pariatur molestiae eius dolorum.</p></div>
-                        <p>программирование</p>
+                        <p className='pp'>Право и комуникация</p>
                     </div>
-                    <div className='card'>
+                    <div className='card card5'>
                     <div className='text'><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat porro accusamus in natus blanditiis sequi minima numquam cumque iure quis, quidem laudantium ipsum et, rem nobis pariatur molestiae eius dolorum.</p></div>
-                        <p>программирование</p>
+                        <p className='pp'>Финансовая аналитика</p>
                     </div>
-                    <div className='card'>
+                    <div className='card card6'>
                     <div className='text'><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat porro accusamus in natus blanditiis sequi minima numquam cumque iure quis, quidem laudantium ipsum et, rem nobis pariatur molestiae eius dolorum.</p></div>
-                        <p>программирование</p>
+                        <p className='pp'>Графический дизайн</p>
                     </div>
                 </div>
             </section>
@@ -82,7 +84,43 @@ const Main = () => {
                 </div>
             </section>
             <section className='back2'>
-                <img src='../../imgs/back2.png.jpg' alt="" />
+            </section>
+            <section className='links'>
+                <h1>Свяжитесь с нами и получите подробную консультацию</h1>
+                <div className="link">
+                    <div className='element'>
+                        <img src="https://nomad.iuk.kg/wp-content/uploads/2022/07/location-1.png" alt="" />
+                        <h2>Адрес</h2>
+                        <p>Кыргызстан, г. Бишкек, ул. 7 апреля 4А</p>
+                    </div>
+                    <div className='element'>
+                        <img src="https://nomad.iuk.kg/wp-content/uploads/2022/07/call-1.png" alt="" />
+                        <h2>Телефон</h2>
+                        <p>Кыргызстан, г. Бишкек, ул. 7 апреля 4А</p>
+                    </div>
+                    <div className='element'>
+                        <img src="https://nomad.iuk.kg/wp-content/uploads/2022/07/email-1.png" alt="" />
+                        <h2>e-mail</h2>
+
+                        <p>Кыргызстан, г. Бишкек, ул. 7 апреля 4А</p>
+                    </div>
+                    <div className='element'>
+                        <img src="https://nomad.iuk.kg/wp-content/uploads/2022/07/whatsapp-1.png" alt="" />
+                        <h2>whatsapp</h2>
+                        <p>Кыргызстан, г. Бишкек, ул. 7 апреля 4А</p>
+                        
+                    </div>
+                    <div className='element'>
+                        <img src="https://nomad.iuk.kg/wp-content/uploads/2022/07/telegram-1.png" alt="" />
+                        <h2>Telegram</h2>
+                        <p>Кыргызстан, г. Бишкек, ул. 7 апреля 4А</p>
+                    </div>
+                    <div className='element'>
+                        <img src="https://nomad.iuk.kg/wp-content/uploads/2022/07/instagram-1.jpg.png" alt="" />
+                        <h2>Instagram</h2>
+                        <p>Кыргызстан, г. Бишкек, ул. 7 апреля 4А</p>
+                    </div>
+                </div>
             </section>
         </div>
     );

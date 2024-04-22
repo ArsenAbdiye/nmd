@@ -86,8 +86,25 @@
             width: 100%;
             display: flex;
             flex-wrap: wrap;
-            .card{
+            .card1{
                 background: url('https://nomad.iuk.kg/wp-content/uploads/2022/07/programmirovanie.jpg') center/cover;
+            }
+            .card2{
+                background: url('https://nomad.iuk.kg/wp-content/uploads/2022/07/perevoddelo-3.jpg') center/cover;
+            }
+            .card3{
+                background: url('https://nomad.iuk.kg/wp-content/uploads/2022/07/SMM-1.jpg') center/cover;
+            }
+            .card4{
+                background: url('https://nomad.iuk.kg/wp-content/uploads/2022/07/pravo.jpg') center/cover;
+            }
+            .card5{
+                background: url('https://nomad.iuk.kg/wp-content/uploads/2022/07/finans.jpg') center/cover;
+            }
+            .card6{
+                background: url('https://nomad.iuk.kg/wp-content/uploads/2022/07/grafdizajn.jpg') center/cover;
+            }
+            .card{
                 width:  calc(33.33% - 20px);
                 margin: 10px;
                 height: 500px;
@@ -97,10 +114,31 @@
                 box-sizing: border-box;
                 position: relative;
                 padding-top: 420px;
+                .pp{
+                    position: absolute;
+                    bottom: 0;
+                    left: 0;
+                    right: 0;
+                    margin: auto;
+                    text-align: center;
+                    color: #fff;
+                    text-shadow: 1px 0.5px 2px #222;
+                    font-weight: bold;
+                    letter-spacing: 0.3px;
+                    font-size: 22px;
+                    line-height: 1.3;
+                    padding: 10px 10px;
+                    background: #c32728b3;
+                    opacity: 1;
+                }
 
             }
             .card:hover .text {
                 transform: none;
+            }
+            .card:hover .pp {
+                display: none;
+
             }
             .text{
                 display: flex;
@@ -115,16 +153,12 @@
                 top: 0;
                 left: 0;
                 transform: scale(0);
-                p{
-                    color: white;
-                    background: none;
-                }
             }
 
         }
     }
     .cost{
-        padding: 50px 0;
+        padding: 25px 0;
         background-color: #f1f1f1;
         text-align: center;
         h1{
@@ -143,7 +177,7 @@
         .table{
             text-align: left;
             width: 100%;
-            padding: 30px 100px;
+            padding: 0 100px 30px;
             display: flex;
             justify-content: center;
             table,tr,td{
@@ -160,8 +194,51 @@
         }
     }
     .back2{
-        width: 100%;
-        height: 80vh;
+        margin: 20px auto;
+        width: 80%;
+        height: 85vh;
+        background: url('../../imgs/back2.png.jpg') center/cover no-repeat;
 
+    }
+    .links{
+        h1{
+            text-transform: uppercase;
+            font-weight: 700;
+            color: #222;
+            font-size: 25px;
+            letter-spacing: -0.5px;
+            margin: 0 0 0 0;
+            font-family: "Open Sans", Helvetica, Arial, sans-serif;
+            margin-bottom: 30px;
+        }
+        text-align: center;
+        padding: 50px 100px;
+        .link{
+            display: flex;
+            flex-wrap: wrap;
+            gap: 40px 25px ;
+            .element{
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                width:  calc(33.33% - 20px);
+                h2{
+                    font-weight: 200;
+                    color: #2b2b2b;
+                }
+                img{
+                    width: 20%;
+                }
+                p{
+                    width: 100%;
+                    background: #c32728;
+                    color: #fff;
+                    text-shadow: 0.5px 0.5px 1px #555;
+                    padding: 5px 0;
+                    margin: 0 5px;
+                }
+            }
+            
+        }
     }
 }

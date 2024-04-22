@@ -27,12 +27,10 @@ const Student = () => {
     }
 
     return (
-        <section className="student">
+        <section className="Student">
             <div className="container">
-                <p>Name: {student.name}</p>
-                {student.contact && student.contact.email && (
-                    <p>Email: {student.contact.email}</p>
-                )}
+                <p>{student.name}</p>
+                <img src={student.img} alt="" />
             </div>
         </section>
     );
